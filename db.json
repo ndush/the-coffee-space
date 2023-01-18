@@ -1,0 +1,41 @@
+{
+    "coffee": [
+      {
+        "id": 1,
+        "title": "Latte",
+        "description": "Caffè latte, often shortened to just latte in English, is a coffee beverage of Italian origin made with espresso and steamed milk.",
+        "image_url": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80"
+      },
+      
+      {
+        "id": 2,
+        "title": "Cappuccino",
+        "description": "A cappuccino is an espresso-based coffee drink that originated in Austria and was later popularized in Italy and is prepared with steamed milk foam.",
+        "image_url": "https://images.unsplash.com/photo-1490810277975-e64342ceecf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80s"
+      },
+      {
+        "id": 3,
+        "title": "Americano",
+        "description": "Caffè Americano is a type of coffee drink prepared by diluting an espresso with hot water, giving it a similar strength to, but different flavor from, traditionally brewed coffee. Its strength varies with the number of shots of espresso and amount of water added.",
+        "image_url": "https://images.unsplash.com/photo-1504194472231-5a5294eddc43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "id": 4,
+        "title": "Espresso",
+        "description": "Espresso is a coffee-brewing method of Italian origin, in which a small amount of nearly boiling water is forced under 9–10 bars of pressure through finely-ground coffee beans. Espresso can be made with a wide variety of coffee beans and roast degrees.",
+        "image_url": "https://images.unsplash.com/photo-1595928642581-f50f4f3453a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1455&q=80"
+      },
+      {
+        "id": 5,
+        "title": "Mocha",
+        "description": " Essentially, mocha means a type of good quality coffee that is made from a specific coffee bean. The beans are from the plant species called Coffee Arabica, and it was originally only grown in Mocha, Yemen.",
+        "image_url": "https://images.unsplash.com/photo-1632845407875-10b4d85e6bf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+      },
+      {
+        "id": 6,
+        "title": " ristretto ",
+        "description": "Ristretto is made with the same Starbucks® Espresso Roast used for full espresso shots, but less hot water is pushed through the grounds.",
+        "image_url": "https://images.unsplash.com/photo-1522922235461-912955b0772b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      }
+    ]
+  }
